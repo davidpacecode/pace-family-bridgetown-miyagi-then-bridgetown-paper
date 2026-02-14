@@ -1,0 +1,32 @@
+<!doctype html>
+<html class="wa-cloak" lang="<%= site.locale %>">
+  <head>
+    <%= render "head", metadata: site.metadata, title: data.title %>
+  </head>
+  <body class="<%= data.layout %> <%= data.page_class %>">
+
+    <wa-page>
+
+      <header slot="header">
+        <%= link_to "/", class: "logo-link" do %>
+          <div class="wa-cluster" style="font-size: 30px;">
+            <wa-icon name="family"></wa-icon>
+            <span>pace.family</span>
+          </div>
+        <% end %>
+      </header>
+
+      <nav slot="navigation">
+        <%= render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
+      </nav>
+
+      <main>
+        <%= yield %>
+      </main>
+
+      <footer slot="footer">
+        <%= render "footer", metadata: site.metadata %>
+      </footer>
+    </wa-page>
+  </body>
+</html>
