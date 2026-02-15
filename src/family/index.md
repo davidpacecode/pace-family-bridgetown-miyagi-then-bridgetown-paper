@@ -19,7 +19,7 @@ layout: default
           <span class="wa-caption-s">commented just now...</span>
         </div>
       </div>
-      <p>Welcome, Cowards. <%= link_to "Family crick here...", "/family" %></p>
+      <p>Welcome, Pace family. Check out recent pics...COWARRRRRRDDDD!!!</p>
     </div>
   </wa-card>
 </div>

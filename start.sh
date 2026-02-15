@@ -1,0 +1,1 @@
+/bin/bridgetown start --bind 0.0.0.0 --port 4000 >> /tmp/bridgetstart.log 2>&1 &
