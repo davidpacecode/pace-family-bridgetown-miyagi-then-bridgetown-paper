@@ -22,5 +22,7 @@ layout: default
       <p>Welcome, Pace family. Check out recent pics...COWARRRRRRDDDD!!!</p>
     </div>
   </wa-card>
+
+  <%= link_to "Singapore and Hyderabad, 2026", "/family/sin_and_hyd_2026" %>
 </div>
 
