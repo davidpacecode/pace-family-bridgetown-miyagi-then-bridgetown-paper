@@ -23,6 +23,12 @@ layout: default
     </div>
   </wa-card>
 
-  <%= link_to "Singapore and Hyderabad, 2026", "/family/sin_and_hyd_2026" %>
+  <% collections.family_shares.each do |family_share| %>
+    <a href="<%= family_share.relative_url %>"><%= family_share.data.title %></a>
+    <h2><%= family_share.data.title %></h2>
+    <p><%= markdownify family_share.content %></p>
+  <% end %>
+
+  <%# link_to "Singapore and Hyderabad, 2026", "/family/sin_and_hyd_2026" %>
 </div>
 

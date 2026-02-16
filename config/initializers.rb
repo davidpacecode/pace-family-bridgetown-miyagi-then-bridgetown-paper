@@ -65,8 +65,9 @@ Bridgetown.configure do |_config|
 
   # Uncomment to use Bridgetown SSR (aka dynamic rendering of content via Roda):
   #
-  # :attr_writer :attr_namesinit :ssr, sessions: true
+  # :attr_writer :attr_names
 
+  # init :ssr, sessions: true
   #
   # Add `sessions: true` if you need to use session data, flash, etc.
   #
@@ -100,4 +101,15 @@ Bridgetown.configure do |_config|
 
   # For more documentation on how to configure your site using this initializers file,
   # visit: https://edge.bridgetownrb.com/docs/configuration/initializers/
+
+  # making a custom collections folder
+  collections_dir "my_collections"
+
+  # making a custom collection or two...
+  collections do
+    family_shares do
+      output true
+      name "Family Shares"
+    end
+  end
 end
