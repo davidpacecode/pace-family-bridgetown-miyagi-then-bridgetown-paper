@@ -11,7 +11,7 @@
         <%= link_to "/", class: "logo-link" do %>
           <div class="wa-cluster wa-heading-xl" style="font-size: 30px; ">
             <!-- <wa-icon name="family"></wa-icon> -->
-            <img src="images/pace_family_logo_transparent.png" alt="logo" style="height: 100px; width: auto;">
+            <img src="/images/pace_family_logo_transparent.png" alt="logo" style="height: 100px; width: auto;">
             <h1>The Pace Family</h1>
           </div>
         <% end %>
@@ -22,7 +22,13 @@
       </nav>
 
       <main>
-        <%= yield %>
+        <div style="padding: 5ch var(--wa-space-4xl); 
+          background: radial-gradient(circle at center, var(--wa-color-brand-fill-quiet), var(--wa-color-brand-fill-normal));
+          border-radius: 1rem; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);">
+
+          <%= yield %>
+    
+        </div>
       </main>
 
       <footer slot="footer">

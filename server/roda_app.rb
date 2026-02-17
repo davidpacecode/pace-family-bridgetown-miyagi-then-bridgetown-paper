@@ -45,10 +45,19 @@ class RodaApp < Roda
               button:hover { background: #1d4ed8; }
               .error { color: #dc2626; font-size: 0.85rem; margin-bottom: 1rem; }
             </style>
+            <script src="https://kit.webawesome.com/f7584a0b417447ce.js" crossorigin="anonymous"></script>
           </head>
           <body>
             <div class="login-box">
-              <h1>The Pace Family</h1>
+              <wa-card orientation="horizontal" class="horizontal-card">
+                <img
+                  slot="media"
+                  src="https://res.cloudinary.com/dus5nmhdw/image/upload/w_200,f_auto,q_auto/v1771282643/sato_log_oltjtk.jpg"
+                  alt="An Okinawan bad ass chopping a log in futility"
+                />
+                <strong>Two ways to enter. Password, or break log...</strong>
+              </wa-card>
+
               #{"<p class='error'>Nope, try again.</p>" if r.params['failed']}
               <form method="post" action="/login">
                 <label for="password">Password</label>
