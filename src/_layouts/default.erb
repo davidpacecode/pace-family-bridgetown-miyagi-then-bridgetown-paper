@@ -17,12 +17,12 @@
         <% end %>
       </header>
 
-      <nav slot="navigation">
+      <nav class="wa-body-l" slot="navigation">
         <%= render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
       </nav>
 
       <main>
-        <div style="padding: 5ch var(--wa-space-4xl); 
+        <div style="padding: 5ch var(--wa-space-l); 
           background: radial-gradient(circle at center, var(--wa-color-brand-fill-quiet), var(--wa-color-brand-fill-normal));
           border-radius: 1rem; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);">
 
