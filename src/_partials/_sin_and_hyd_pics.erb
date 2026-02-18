@@ -1,0 +1,44 @@
+<div class="wa-grid" style="--min-column-size: 50ch">
+
+  <% site.data.sin_and_hyd_pics.each_slice(2) do |first_pic, second_pic| %>
+    <div class="wa-grid">
+      <a href="<%= resource.data.image_prefix %><%= first_pic.image %>" class="wa-link-plain">
+        <wa-card>
+          <img
+            slot="media"
+            src="<%= resource.data.image_prefix %><%= resource.data.format_suffix %><%= first_pic.image %>"
+            alt="<%= first_pic.title %>"
+>
+          <div class="wa-stack">
+            <div class="wa-flank:end wa-align-items-start wa-heading-l">
+              <span><%= first_pic.title %></span>
+            </div>
+            <p class="wa-caption-s">
+              <%= first_pic.story %>
+            </p>
+          </div>
+        </wa-card>
+      </a>
+
+      <% if second_pic %>
+        <a href="<%= resource.data.image_prefix %><%= second_pic.image %>" class="wa-link-plain">
+          <wa-card>
+            <img
+              slot="media"
+              src="<%= resource.data.image_prefix %><%= resource.data.format_suffix %><%= second_pic.image %>"
+              alt="<%= second_pic.title %>"
+>
+            <div class="wa-stack">
+              <div class="wa-flank:end wa-align-items-start wa-heading-l">
+                <span><%= second_pic.title %></span>
+              </div>
+              <p class="wa-caption-s">
+                <%= second_pic.story %>
+              </p>
+            </div>
+          </wa-card>
+        </a>
+      <% end %>
+    </div>
+  <% end %>
+</div>
