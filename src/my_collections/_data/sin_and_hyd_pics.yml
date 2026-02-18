@@ -1,9 +1,49 @@
 - image: "v1771269451/IMG_7635_tgukdy.heic"
-  title: "Buncha Dudes"
+  title: "Buncha dudes"
   story: "Interesting statues near the Westin, where we stayed"
+  category: "Downtown Walk"
+
+- image: "v1771269449/IMG_7638_sqnqxa.heic"
+  title: "Dude with umbrella"
+  story: "A nice chap with an umbrella"
   category: "Downtown Walk"
 
 - image: "v1771269449/IMG_7637_iqekml.heic"
   title: "Some of their friends"
   story: "Some ladies next to those dudes"
+  category: "Downtown Walk"
+
+- image: "v1771269447/IMG_7643_m6a3rz.heic"
+  title: "Cool boat in the bay"
+  story: "Didn't wind up taking one of these"
+  category: "Downtown Walk"
+
+- image: "v1771269448/IMG_7639_bv7upi.heic"
+  title: "Cool building"
+  story: "Fancy cool buildings"
+  category: "Downtown Walk"
+
+- image: "v1771269448/IMG_7641_tx4zcg.heic"
+  title: "Nice shot of the bay"
+  story: "Water is wet"
+  category: "Downtown Walk"
+
+- image: "v1771269447/IMG_7645_hvbnq1.heic"
+  title: "Arches"
+  story: "Not sure if these are called something"
+  category: "Downtown Walk"
+
+- image: "v1771269445/IMG_7652_z8q1vm.heic"
+  title: "Big chess board"
+  story: "I wonder if anyone ever plays with this"
+  category: "Downtown Walk"
+
+- image: "v1771269445/IMG_7648_dmuniu.heic"
+  title: "Some art buildings"
+  story: "I am the worst narrator ever..."
+  category: "Downtown Walk"
+
+- image: "v1771269445/IMG_7649_wztsom.heic"
+  title: "Another shot of the bay"
+  story: "..."
   category: "Downtown Walk"
