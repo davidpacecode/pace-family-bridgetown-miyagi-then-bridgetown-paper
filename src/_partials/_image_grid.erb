@@ -1,12 +1,12 @@
 <div class="wa-grid" style="--min-column-size: 50ch">
 
-  <% site.data.sin_and_hyd_pics.each_slice(2) do |first_pic, second_pic| %>
+  <% image_metadata.select { |image| image[:category] == category }.each_slice(2) do |first_pic, second_pic| %>
     <div class="wa-grid">
-      <a href="<%= resource.data.image_prefix %><%= first_pic.image %>" class="wa-link-plain">
+      <a href="<%= image_prefix %><%= first_pic.image %>" class="wa-link-plain">
         <wa-card>
           <img
             slot="media"
-            src="<%= resource.data.image_prefix %><%= resource.data.format_suffix %><%= first_pic.image %>"
+            src="<%= image_prefix %><%= format_suffix %><%= first_pic.image %>"
             alt="<%= first_pic.title %>"
 >
           <div class="wa-stack">
@@ -21,11 +21,11 @@
       </a>
 
       <% if second_pic %>
-        <a href="<%= resource.data.image_prefix %><%= second_pic.image %>" class="wa-link-plain">
+        <a href="<%= image_prefix %><%= second_pic.image %>" class="wa-link-plain">
           <wa-card>
             <img
               slot="media"
-              src="<%= resource.data.image_prefix %><%= resource.data.format_suffix %><%= second_pic.image %>"
+              src="<%= image_prefix %><%= format_suffix %><%= second_pic.image %>"
               alt="<%= second_pic.title %>"
 >
             <div class="wa-stack">
