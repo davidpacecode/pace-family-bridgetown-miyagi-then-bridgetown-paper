@@ -12,21 +12,31 @@ end
 
 %>---
 
-<h2><%= convo["title"] %></h2>
+<% convo["messages"].each_with_index do |message, index| %>
 
-<% convo["messages"].each do |message| %>
-  <wa-card>
-    <div class="wa-stack">
-      <div class="wa-flank">
-        <wa-avatar image="/images/<%= message.speaker %>.jpg" label="<%= message.speaker %>" style="--size: 2rem;"></wa-avatar>
-        <div class="wa-cluster">
-          <strong><%= message.speaker %></strong>
-          <span class="wa-caption-s">commented just now...</span>
-        </div>
+  <% if !index.even? %>
+    <ul>
+      <li class="wa-stack wa-gap-2xs"><wa-card>
+  <% else %>
+    <wa-card>
+  <% end %>
+
+  <div class="wa-stack">
+    <div class="wa-flank">
+      <wa-avatar image="/images/<%= message.speaker %>.jpg" label="<%= message.speaker %>" style="--size: 2rem;"></wa-avatar>
+      <div class="wa-cluster">
+        <strong><%= message.speaker %></strong>
+        <span class="wa-caption-s">commented just now...</span>
       </div>
-      <p><%= message.text %></p>
     </div>
-  </wa-card>
+    <p><%= message.text %></p>
+  </div>
+  <% if !index.even? %>
+      </li>
+    </ul>
+  <% else %>
+    </wa-card>
+  <% end %>
 
 <% end %>
 
