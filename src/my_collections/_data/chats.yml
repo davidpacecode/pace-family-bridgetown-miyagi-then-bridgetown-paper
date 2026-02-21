@@ -1,0 +1,151 @@
+- id: sato-miyagi-1
+  title: "The Log"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "Miyagi. I have been training for 47 years to break that log."
+    - speaker: miyagi
+      text: "Miyagi know. Miyagi hear every morning. Five AM. Very loud."
+    - speaker: sato
+      text: "It mocks me."
+    - speaker: miyagi
+      text: "Log not mock. Log just log."
+    - speaker: sato
+      text: "YOU mock me. You and your PEACE. Your BALANCE. Your little bonsai trees like small coward shrubs."
+    - speaker: miyagi
+      text: "Miyagi bonsai very healthy, thank you."
+    - speaker: sato
+      text: "COWARRRD. Come break log with me. RIGHT NOW."
+    - speaker: miyagi
+      text: "Miyagi busy."
+    - speaker: sato
+      text: "Doing what?!"
+    - speaker: miyagi
+      text: "Watching log. Very peaceful."
+
+- id: sato-miyagi-2
+  title: "Kumiko"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "She chose the American boy, Miyagi. The AMERICAN BOY."
+    - speaker: miyagi
+      text: "Daniel-san good boy."
+    - speaker: sato
+      text: "He waxed a car. That is his qualification. He WAXED. A CAR."
+    - speaker: miyagi
+      text: "He wax very well."
+    - speaker: sato
+      text: "COWARRRD. You trained him to steal what is mine."
+    - speaker: miyagi
+      text: "Miyagi trained him to not get beaten up. Is different thing."
+    - speaker: sato
+      text: "Kumiko was promised to me!"
+    - speaker: miyagi
+      text: "Kumiko not object. Kumiko have opinion."
+    - speaker: sato
+      text: "Her opinion is WRONG."
+    - speaker: miyagi
+      text: "Miyagi going to need bigger sake for this conversation."
+
+- id: sato-miyagi-3
+  title: "The Tournament"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "Your student cannot beat my student. Chozen is a warrior."
+    - speaker: miyagi
+      text: "Chozen is... enthusiastic."
+    - speaker: sato
+      text: "He trains eighteen hours a day!"
+    - speaker: miyagi
+      text: "Miyagi train student to breathe. Also useful."
+    - speaker: sato
+      text: "BREATHING. You think BREATHING wins tournament?!"
+    - speaker: miyagi
+      text: "Miyagi think not-punching-own-face also helpful. Chozen should try."
+    - speaker: sato
+      text: "You dishonor this conversation. COWARRRD."
+    - speaker: miyagi
+      text: "Miyagi dishonor nothing. Miyagi merely observe."
+    - speaker: sato
+      text: "Observe THIS."
+      action: "attempts to break the log. Fails. Again."
+    - speaker: miyagi
+      text: "BANZAI."
+    - speaker: sato
+      text: "What does that even MEAN in this context."
+    - speaker: miyagi
+      text: "Miyagi not sure. Felt right."
+
+- id: sato-miyagi-4
+  title: "The Dojo Dispute"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "My dojo has forty students. How many does yours have, Miyagi."
+    - speaker: miyagi
+      text: "One."
+    - speaker: sato
+      text: "ONE. Ha! COWARRRD school for COWARRRD teacher."
+    - speaker: miyagi
+      text: "One student win All Valley. What forty students win?"
+    - speaker: sato
+      text: "..."
+    - speaker: miyagi
+      text: "Miyagi wait."
+    - speaker: sato
+      text: "They are still developing."
+    - speaker: miyagi
+      text: "Miyagi see."
+    - speaker: sato
+      text: "The log will be broken by year's end. Then you will see true power."
+    - speaker: miyagi
+      text: "Miyagi respect commitment. Truly."
+    - speaker: sato
+      text: "Thank you."
+    - speaker: miyagi
+      text: "Still think log winning though. Hold Miyagi's sake."
+
+- id: sato-miyagi-5
+  title: "Phone Call at 2am"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "Miyagi. Are you awake."
+    - speaker: miyagi
+      text: "Miyagi is now."
+    - speaker: sato
+      text: "I have been thinking."
+    - speaker: miyagi
+      text: "At two in morning?"
+    - speaker: sato
+      text: "Do you think... do you think Kumiko is happy."
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "Yes, Sato. Miyagi think she is."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "COWARRRD."
+    - speaker: miyagi
+      text: "Goodnight, Sato."
+    - speaker: sato
+      text: "The log will be broken by Thursday."
+    - speaker: miyagi
+      text: "Miyagi will believe when Miyagi sees. BANZAI."
+    - speaker: sato
+      text: "Why do you keep saying that."
+    - speaker: miyagi
+      text: "Miyagi go back to sleep now."

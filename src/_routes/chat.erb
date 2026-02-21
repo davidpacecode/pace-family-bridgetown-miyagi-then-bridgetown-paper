@@ -1,0 +1,19 @@
+---<%
+
+r.get do
+
+  convo = site.data.chats.sample
+
+  render_with do
+    layout :page
+    title "Karate Chat"
+  end
+end
+
+%>---
+
+<h2><%= convo["title"] %></h2>
+
+<% convo["messages"].each do |message| %>
+  <%= "#{message.speaker}: #{message.text}" %>
+<% end %>
