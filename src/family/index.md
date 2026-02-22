@@ -37,9 +37,9 @@ layout: default
 ### Some family updates
 
 <ul>
-  <% collections.family_shares.each do |family_share| %>
+  <% collections.family_shares.sort_by(&:date).reverse.each do |family_share| %>
     <li><span class="wa-body-l"><a href="<%= family_share.relative_url %>">
-      <%= family_share.data.title %></a></span></li>
+      <%= "#{family_share.data.title} - #{family_share.data.date}" %></a></span></li>
   <% end %>
 </ul>
 

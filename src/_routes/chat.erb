@@ -23,7 +23,7 @@ end
 
   <div class="wa-stack">
     <div class="wa-flank">
-      <wa-avatar image="/images/<%= message.speaker %>.jpg" label="<%= message.speaker %>" style="--size: 2rem;"></wa-avatar>
+      <wa-avatar image="/images/<%= message.speaker[0..(message.speaker.index(" ")-1)] %>.jpg" label="<%= message.speaker %>" style="--size: 2rem;"></wa-avatar>
       <div class="wa-cluster">
         <strong><%= message.speaker %></strong>
         <span class="wa-caption-s">commented just now...</span>
@@ -31,6 +31,7 @@ end
     </div>
     <p><%= message.text %></p>
   </div>
+
   <% if !index.even? %>
       </wa-card>
 
