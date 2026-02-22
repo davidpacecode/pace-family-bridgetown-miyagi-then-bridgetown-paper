@@ -372,3 +372,916 @@
       text: "There is a College Years?!"
     - speaker: miyagi
       text: "Do not get attached. Is very painful."
+
+- id: sato-miyagi-13
+  title: "Brandon or Dylan"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "I have something to tell you."
+    - speaker: miyagi
+      text: "Miyagi listening."
+    - speaker: sato
+      text: "I watch Beverly Hills 90210."
+    - speaker: miyagi
+      text: "Miyagi know."
+    - speaker: sato
+      text: "How do you know."
+    - speaker: miyagi
+      text: "You cried when Dylan's father died. Miyagi heard through wall."
+    - speaker: sato
+      text: "I was not crying. I was doing breathing exercises. They are very loud."
+    - speaker: miyagi
+      text: "Very specific breathing exercises that said 'not Jack McKay, not like this.'"
+    - speaker: sato
+      text: "COWARRRD. You heard nothing."
+    - speaker: miyagi
+      text: "Miyagi also watch. Brandon Walsh is good man. Very solid."
+    - speaker: sato
+      text: "Brandon is fine. Dylan is warrior. Tortured. Complex. Rides motorcycle."
+    - speaker: miyagi
+      text: "Dylan make many bad choices."
+    - speaker: sato
+      text: "Great men make great mistakes. You would not understand."
+    - speaker: miyagi
+      text: "Miyagi understand plenty. Hold Miyagi's sake. Brenda about to do something dramatic."
+
+- id: sato-miyagi-14
+  title: "Donna Martin"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "Miyagi. Drop everything."
+    - speaker: miyagi
+      text: "Miyagi in middle of bonsai."
+    - speaker: sato
+      text: "They are trying to stop Donna Martin from graduating."
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "Miyagi come."
+    - speaker: sato
+      text: "She was drinking at prom. She did not even want to drink. She was pressured. And now the administration— the COWARRRD administration—"
+    - speaker: miyagi
+      text: "Miyagi very upset about this."
+    - speaker: sato
+      text: "DONNA MARTIN GRADUATES. COWARRRD!! Anyone who says otherwise faces Sato!"
+    - speaker: miyagi
+      text: "BANZAI. Miyagi stand with Sato on this."
+    - speaker: sato
+      text: "We are united."
+    - speaker: miyagi
+      text: "Completely united."
+    - speaker: sato
+      text: "She graduates."
+    - speaker: miyagi
+      text: "She graduates."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "My name is Sato and I looovvveee to get blottto."
+    - speaker: miyagi
+      text: "Miyagi feel this is appropriate response to situation."
+
+- id: sato-miyagi-15
+  title: "Kelly or Brenda"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: miyagi
+      text: "Miyagi have important question."
+    - speaker: sato
+      text: "Ask."
+    - speaker: miyagi
+      text: "Kelly or Brenda."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "Do not make me choose."
+    - speaker: miyagi
+      text: "Miyagi need to know where Sato stand."
+    - speaker: sato
+      text: "Brenda is loyal. Passionate. Misunderstood. Like me."
+    - speaker: miyagi
+      text: "Miyagi see the connection yes."
+    - speaker: sato
+      text: "But Kelly is... Kelly is Kumiko."
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "Miyagi need moment."
+    - speaker: sato
+      text: "You asked."
+    - speaker: miyagi
+      text: "Miyagi did ask. Miyagi regret."
+    - speaker: sato
+      text: "Brandon was fool to choose Kelly. Dylan understood. You choose the Brenda. You are loyal to the Brenda."
+    - speaker: miyagi
+      text: "Miyagi think maybe this not really about show anymore."
+    - speaker: sato
+      text: "The log. I need to go hit the log."
+    - speaker: miyagi
+      text: "Miyagi know."
+
+- id: sato-miyagi-16
+  title: "Marwan"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "Do you remember Marwan."
+    - speaker: miyagi
+      text: "Miyagi remember Marwan."
+    - speaker: sato
+      text: "Greatest man I ever knew."
+    - speaker: miyagi
+      text: "Marwan was... singular."
+    - speaker: sato
+      text: "He could drink a forty of Old English faster than any human being on this earth. It was like watching a sunset. You knew it would end but you did not want it to."
+    - speaker: miyagi
+      text: "Miyagi once time him. Four seconds. Miyagi still not believe own eyes."
+    - speaker: sato
+      text: "A Lebanese legend. They do not make them like Marwan anymore."
+    - speaker: miyagi
+      text: "Nobody make them like Marwan. Marwan one of a kind."
+    - speaker: sato
+      text: "He bought us beer for three years. We were fifteen, sixteen, seventeen. He walked into that store like a man who owned it."
+    - speaker: miyagi
+      text: "Marwan was fifteen and looked fifty-three. Full beard. Mortgage. Tire iron in truck."
+    - speaker: sato
+      text: "The man at the counter never once questioned him."
+    - speaker: miyagi
+      text: "Nobody question Marwan. Marwan question you."
+    - speaker: sato
+      text: "He once bought beer, a carton of cigarettes, and a scratch ticket, won forty dollars, bought more beer, and was home by nine."
+    - speaker: miyagi
+      text: "Marwan very efficient."
+    - speaker: sato
+      text: "A warrior."
+    - speaker: miyagi
+      text: "BANZAI, Marwan. Wherever you are."
+    - speaker: sato
+      text: "BANZAI."
+    - speaker: sato
+      text: "...I miss him."
+    - speaker: miyagi
+      text: "Miyagi also miss him. Hold Miyagi's forty."
+
+- id: sato-miyagi-17
+  title: "Marwan's Technique"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "I have been thinking about Marwan's technique."
+    - speaker: miyagi
+      text: "The pour or the tilt."
+    - speaker: sato
+      text: "The tilt. He barely moved his throat. It was internal. Like a drain."
+    - speaker: miyagi
+      text: "Miyagi study this for years. Still cannot replicate."
+    - speaker: sato
+      text: "Nobody can replicate. It was a gift. Like a musician who does not read music."
+    - speaker: miyagi
+      text: "Marwan never practice. Miyagi saw him. Natural. Pure."
+    - speaker: sato
+      text: "You think he still does it."
+    - speaker: miyagi
+      text: "Marwan in his fifties now. Probably still look fifty-three."
+    - speaker: sato
+      text: "Time moves differently for Marwan. He was born looking fifty-three and he will die looking fifty-three."
+    - speaker: miyagi
+      text: "Like highlander but Lebanese."
+    - speaker: sato
+      text: "Exactly. Exactly like that."
+    - speaker: miyagi
+      text: "My name is Sato and I looovvveee to get blottto. Want to smoke a spliff?"
+    - speaker: sato
+      text: "Did you just— did you say MY line."
+    - speaker: miyagi
+      text: "Miyagi feel Marwan would want this. BANZAI."
+    - speaker: sato
+      text: "...yes. Yes he would. COWARRRD if you say no."
+
+- id: sato-miyagi-18
+  title: "Marwan and the Scratch Ticket"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "I called Marwan."
+    - speaker: miyagi
+      text: "How is he."
+    - speaker: sato
+      text: "He answered on first ring. Sounded exactly the same. Deep voice. Like a man who has seen things."
+    - speaker: miyagi
+      text: "Marwan has seen things."
+    - speaker: sato
+      text: "He said he still buys scratch tickets. He won two hundred dollars last month."
+    - speaker: miyagi
+      text: "Marwan and scratch tickets. Some things sacred."
+    - speaker: sato
+      text: "He asked about you."
+    - speaker: miyagi
+      text: "What Marwan say."
+    - speaker: sato
+      text: "He said, and I am quoting exactly: 'Miyagi still doing the peace and quiet thing?'"
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "BANZAI. Marwan understand Miyagi completely."
+    - speaker: sato
+      text: "I told him about the log."
+    - speaker: miyagi
+      text: "What Marwan say about log."
+    - speaker: sato
+      text: "He said 'tell that guy to buy a chainsaw, I'll drive.'"
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "Marwan always have solution."
+    - speaker: sato
+      text: "He is coming to visit in spring."
+    - speaker: miyagi
+      text: "Miyagi will get supplies. Hold Miyagi's beer. Much to prepare."
+    - speaker: sato
+      text: "COWAARRRD if you do not get forties."
+    - speaker: miyagi
+      text: "Miyagi already on phone with store."
+
+- id: sato-miyagi-marwan-19
+  title: "Marwan Arrives"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: marwan
+      text: "I am here."
+    - speaker: sato
+      text: "MARWAN."
+    - speaker: miyagi
+      text: "BANZAI."
+    - speaker: marwan
+      text: "I brought forties. Also scratch tickets. Also I found five dollars on your driveway Miyagi."
+    - speaker: miyagi
+      text: "That is Miyagi's five dollars."
+    - speaker: marwan
+      text: "Was on ground. Is mine now. This is the law."
+    - speaker: sato
+      text: "He is correct. This is the law."
+    - speaker: miyagi
+      text: "Miyagi note both guests have been here forty seconds."
+    - speaker: marwan
+      text: "Long enough. Where is log."
+    - speaker: sato
+      text: "Out back. I broke it."
+    - speaker: marwan
+      text: "I know. You called me seventeen times about it."
+    - speaker: miyagi
+      text: "Miyagi also received calls."
+    - speaker: marwan
+      text: "There is another log I see."
+    - speaker: sato
+      text: "Do not."
+    - speaker: marwan
+      text: "I brought chainsaw."
+    - speaker: miyagi
+      text: "BANZAI. Hold Miyagi's beer. This going to be good."
+
+- id: sato-miyagi-marwan-20
+  title: "Okinawan Edward 40 Hands"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: marwan
+      text: "In Lebanon we play Edward 40 Hands. You tape forties to your hands. Cannot remove until finished."
+    - speaker: sato
+      text: "I know this game. I have trained for this without knowing I trained for this."
+    - speaker: miyagi
+      text: "Miyagi have Okinawan variation."
+    - speaker: marwan
+      text: "Speak."
+    - speaker: miyagi
+      text: "Same game. But between each forty, you must do the Bone Dance."
+    - speaker: sato
+      text: "What is the Bone Dance."
+    - speaker: miyagi
+      text: "Traditional Okinawan dance. Very specific movements. Hands taped to forties. Much harder than sounds."
+    - speaker: marwan
+      text: "I am in."
+    - speaker: sato
+      text: "I am in. What does Bone Dance look like."
+    - speaker: miyagi
+      text: "Miyagi will demonstrate. Watch feet."
+    - speaker: sato
+      text: "Your feet are doing something I cannot describe."
+    - speaker: miyagi
+      text: "That is because you are not ready. BANZAI."
+    - speaker: marwan
+      text: "I have been ready since birth. Tape my hands."
+    - speaker: miyagi
+      text: "Marwan. Miyagi must warn you. Last man who try this was never the same."
+    - speaker: marwan
+      text: "What happened to him."
+    - speaker: miyagi
+      text: "He is fine actually. He just really love Bone Dance now. Do it at weddings. Funerals. Everywhere."
+    - speaker: sato
+      text: "TAPE THE HANDS. COWAARRRD IF YOU HESITATE."
+
+- id: sato-miyagi-marwan-21
+  title: "The Crane Kick"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "I need to say something I have held inside for many years."
+    - speaker: miyagi
+      text: "Miyagi listening."
+    - speaker: marwan
+      text: "Same."
+    - speaker: sato
+      text: "The crane kick. If done right, no can defend."
+    - speaker: miyagi
+      text: "This is true."
+    - speaker: sato
+      text: "Unless, of course, you simply move to the side."
+    - speaker: miyagi
+      text: "..."
+    - speaker: sato
+      text: "Or raise one arm. Any arm. Either arm."
+    - speaker: marwan
+      text: "You are describing blocking."
+    - speaker: sato
+      text: "I am describing blocking. Yes. You stand on one leg, in plain view, with maximum telegraphing, and jump directly at someone's face."
+    - speaker: miyagi
+      text: "Miyagi would like to say—"
+    - speaker: sato
+      text: "The element of surprise is zero, Miyagi. The boy stood on one leg for five full seconds. You could see it from space."
+    - speaker: marwan
+      text: "I would have blocked this kick."
+    - speaker: miyagi
+      text: "Johnny Lawrence also could have blocked."
+    - speaker: sato
+      text: "THANK YOU."
+    - speaker: miyagi
+      text: "But he did not."
+    - speaker: sato
+      text: "Because he was standing there like a COWARRRD with his hands at his sides!"
+    - speaker: marwan
+      text: "This is a failure of fundamentals."
+    - speaker: miyagi
+      text: "Miyagi not going to defend the kick. Miyagi will only say... it worked."
+    - speaker: sato
+      text: "It worked because Johnny Lawrence forgot he had arms."
+    - speaker: marwan
+      text: "I am going to practice blocking obvious kicks. Just in case."
+    - speaker: miyagi
+      text: "Hold Miyagi's sake. Miyagi going to think about this."
+
+- id: sato-miyagi-marwan-22
+  title: "The Drum Technique"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "Tell me about the drum technique."
+    - speaker: miyagi
+      text: "Ancient technique. Body loose like drum. Strike flows naturally."
+    - speaker: sato
+      text: "You taught Daniel-san this by having him shake a drum toy."
+    - speaker: miyagi
+      text: "Yes."
+    - speaker: sato
+      text: "A child's toy."
+    - speaker: miyagi
+      text: "Correct."
+    - speaker: marwan
+      text: "How long did it take."
+    - speaker: miyagi
+      text: "Few minutes."
+    - speaker: sato
+      text: "Few MINUTES. I trained for DECADES. He shook a toy for four minutes and learned a technique."
+    - speaker: miyagi
+      text: "Daniel-san is fast learner."
+    - speaker: sato
+      text: "I shook that same toy last Tuesday."
+    - speaker: miyagi
+      text: "Miyagi know. Miyagi was home."
+    - speaker: marwan
+      text: "Did it work."
+    - speaker: sato
+      text: "...my strikes were fluid, yes. I did not want to admit this."
+    - speaker: miyagi
+      text: "Miyagi say nothing."
+    - speaker: sato
+      text: "The toy works. This is humiliating."
+    - speaker: marwan
+      text: "I want to try the toy."
+    - speaker: miyagi
+      text: "BANZAI. Miyagi get toy. Also forties. Drum technique very thirsty work."
+
+- id: sato-miyagi-marwan-23
+  title: "Cobra Kai — The Show"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "I watched the Cobra Kai series."
+    - speaker: miyagi
+      text: "Miyagi also watch."
+    - speaker: marwan
+      text: "Continue."
+    - speaker: sato
+      text: "They made Johnny Lawrence... sympathetic."
+    - speaker: miyagi
+      text: "Mmm."
+    - speaker: sato
+      text: "He drives an old car and drinks Coors banquet and everybody acts like this is very deep."
+    - speaker: marwan
+      text: "I also drink Coors banquet."
+    - speaker: sato
+      text: "You are deep, Marwan. You have earned it. Johnny Lawrence has not."
+    - speaker: miyagi
+      text: "Miyagi note they make Miyagi into ghost. Miyagi is in show as dead man giving advice."
+    - speaker: sato
+      text: "You are literally dead in this show and Daniel-san still cannot function without you."
+    - speaker: miyagi
+      text: "Miyagi find this... accurate actually."
+    - speaker: marwan
+      text: "There are now seventeen teenagers doing karate in a school. Nobody's parents are concerned."
+    - speaker: sato
+      text: "The school itself has been destroyed four times. It keeps reopening."
+    - speaker: miyagi
+      text: "Miyagi impressed by permit process."
+    - speaker: marwan
+      text: "John Kreese came back from the dead essentially."
+    - speaker: sato
+      text: "COWAARRRD move. You die, you stay dead. This is honor."
+    - speaker: miyagi
+      text: "Miyagi technically also not fully gone so—"
+    - speaker: sato
+      text: "You are a GHOST. That is different. Ghosts have honor."
+    - speaker: marwan
+      text: "I have questions about the Terry Silver arc."
+    - speaker: miyagi
+      text: "Miyagi need drink first."
+    - speaker: marwan
+      text: "Same."
+    - speaker: sato
+      text: "SAME. My name is Sato and I looovvveee to get blottto. This show requires it."
+
+- id: sato-miyagi-marwan-24
+  title: "Cobra Kai — The Dojo"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: marwan
+      text: "Strike first. Strike hard. No mercy."
+    - speaker: sato
+      text: "This is their philosophy."
+    - speaker: marwan
+      text: "I have thoughts."
+    - speaker: sato
+      text: "Speak."
+    - speaker: marwan
+      text: "Strike first I understand. Strike hard also fine. No mercy is where you lose me."
+    - speaker: miyagi
+      text: "Miyagi agree. Mercy is not weakness. Mercy is control."
+    - speaker: sato
+      text: "I have shown no mercy for forty years and I would like to formally reconsider this."
+    - speaker: miyagi
+      text: "Miyagi waiting long time to hear this."
+    - speaker: sato
+      text: "The log. The log took no mercy from me. And yet it persisted. New log appeared. Mercy would have allowed me to rest."
+    - speaker: marwan
+      text: "This is a breakthrough."
+    - speaker: miyagi
+      text: "BANZAI. Very quietly. Out of respect."
+    - speaker: sato
+      text: "Cobra Kai teaches children to kick first and think never. There is no philosophy. There is only aggression with a logo."
+    - speaker: marwan
+      text: "The logo is a cobra."
+    - speaker: sato
+      text: "Cobras are ambush predators. They do not strike first. This is factually wrong branding. COWAARRRD logo."
+    - speaker: miyagi
+      text: "Miyagi never think about this but now cannot stop."
+    - speaker: marwan
+      text: "Also the skeleton on the logo — why skeleton. What happened to that cobra. Very concerning."
+    - speaker: miyagi
+      text: "Hold Miyagi's sake. Miyagi googling cobra skeleton."
+
+- id: sato-miyagi-marwan-25
+  title: "The Scratch Ticket Summit"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: marwan
+      text: "I won forty dollars."
+    - speaker: sato
+      text: "Again?"
+    - speaker: marwan
+      text: "It is a gift. I cannot explain it."
+    - speaker: miyagi
+      text: "Marwan has scratch ticket energy. Very rare. Miyagi respect deeply."
+    - speaker: marwan
+      text: "I will use winnings to buy more forties."
+    - speaker: sato
+      text: "The cycle is pure."
+    - speaker: miyagi
+      text: "BANZAI."
+    - speaker: marwan
+      text: "I also bought one for each of you."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "Marwan. I have called many people coward in my life. Sometimes unfairly."
+    - speaker: marwan
+      text: "I know."
+    - speaker: sato
+      text: "You are the opposite of coward. There is no word."
+    - speaker: miyagi
+      text: "Miyagi know word. In Okinawan. It means — man who arrive with forties and scratch tickets and chainsaw and ask nothing in return."
+    - speaker: marwan
+      text: "What is the word."
+    - speaker: miyagi
+      text: "Marwan."
+    - speaker: marwan
+      text: "..."
+    - speaker: marwan
+      text: "I am going to need a moment."
+    - speaker: sato
+      text: "COWAARRRD if you cry."
+    - speaker: marwan
+      text: "I am not crying. I am doing breathing exercises."
+    - speaker: miyagi
+      text: "Very loud breathing exercises."
+    - speaker: marwan
+      text: "Yes. Tape my hands. Let us do the Bone Dance."
+
+- id: sato-miyagi-marwan-26
+  title: "The Group Chat Begins"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "HELLO. THIS IS SATO. I AM IN THE GROUP CHAT."
+    - speaker: miyagi
+      text: "Miyagi see this yes."
+    - speaker: sato
+      text: "I CAN SEE BOTH OF YOU. THIS IS INCREDIBLE TECHNOLOGY."
+    - speaker: marwan
+      text: "You do not need to use all caps."
+    - speaker: sato
+      text: "I KNOW. I CHOOSE TO."
+    - speaker: miyagi
+      text: "Miyagi would like to request smaller letters."
+    - speaker: sato
+      text: "THE LETTERS REFLECT MY ENERGY. I HAVE MUCH ENERGY. COWAARRRD LETTERS ARE SMALL."
+    - speaker: marwan
+      text: "I am going to put my phone down now."
+    - speaker: sato
+      text: "MARWAN DO NOT GO. ALSO WHAT IS THIS BUTTON WITH THE FACE."
+    - speaker: miyagi
+      text: "That is emoji."
+    - speaker: sato
+      text: "😤😤😤😤😤😤"
+    - speaker: miyagi
+      text: "..."
+    - speaker: marwan
+      text: "He found the emoji."
+    - speaker: miyagi
+      text: "BANZAI. And also no."
+
+- id: sato-miyagi-marwan-27
+  title: "Sato Discovers Reactions"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: marwan
+      text: "Good morning."
+    - speaker: sato
+      text: "💪💪💪💪💪💪💪💪💪"
+    - speaker: miyagi
+      text: "Miyagi say good morning also."
+    - speaker: sato
+      text: "I have discovered you can react to messages. I have been reacting to old messages for one hour."
+    - speaker: marwan
+      text: "We got notifications for all of them."
+    - speaker: sato
+      text: "I reacted to everything with 💀 because it is the strongest reaction."
+    - speaker: miyagi
+      text: "Miyagi received seventeen skull reactions before breakfast."
+    - speaker: sato
+      text: "Each one was intentional. Each one means something different."
+    - speaker: marwan
+      text: "What does the skull on my good morning message mean."
+    - speaker: sato
+      text: "It means your good morning was so powerful it destroyed me. It is a compliment."
+    - speaker: miyagi
+      text: "Miyagi understand now. Miyagi also destroyed by good morning."
+    - speaker: sato
+      text: "CORRECT. 💀💀💀"
+    - speaker: marwan
+      text: "I am going to need coffee."
+    - speaker: sato
+      text: "☕💀"
+    - speaker: miyagi
+      text: "Hold Miyagi's phone. Miyagi turning off notifications."
+
+- id: sato-miyagi-marwan-28
+  title: "Sato Discovers GIFs"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "THERE ARE MOVING PICTURES IN THE CHAT."
+    - speaker: marwan
+      text: "Those are GIFs."
+    - speaker: sato
+      text: "I searched my name. There is no GIF of Sato."
+    - speaker: miyagi
+      text: "Miyagi also checked. No Miyagi GIF either."
+    - speaker: sato
+      text: "This is an OUTRAGE. We defeated enemies. We trained warriors. There is GIF of cat falling off table but nothing of Sato."
+    - speaker: marwan
+      text: "I also have no GIF."
+    - speaker: sato
+      text: "Marwan you are a LEGEND. There should be GIF of you drinking the forty. Four seconds. On loop. Forever."
+    - speaker: miyagi
+      text: "Miyagi would watch this GIF many times."
+    - speaker: marwan
+      text: "Someone would need to film it."
+    - speaker: sato
+      text: "I WILL FILM IT. THIS IS MY PURPOSE NOW."
+    - speaker: miyagi
+      text: "Miyagi thought purpose was breaking log."
+    - speaker: sato
+      text: "I HAVE TWO PURPOSES NOW. 💀💀💀🎥"
+    - speaker: marwan
+      text: "Buy forties. I will come Saturday."
+    - speaker: miyagi
+      text: "BANZAI. Miyagi will charge phone."
+
+- id: sato-miyagi-marwan-29
+  title: "Watch Party — Opening Credits"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "We are watching the film. I am ready."
+    - speaker: marwan
+      text: "I have forties."
+    - speaker: miyagi
+      text: "Miyagi have complicated feelings about watching own movie."
+    - speaker: sato
+      text: "You are not in the movie. An actor is in the movie."
+    - speaker: miyagi
+      text: "Actor say Miyagi's words. Wear Miyagi's hat. This is strange experience."
+    - speaker: marwan
+      text: "The music is very eighties."
+    - speaker: sato
+      text: "It is peak eighties. It is the eighties distilled into pure liquid and injected directly into your eyes."
+    - speaker: miyagi
+      text: "Daniel-san arriving in New Jersey. Miyagi remember this. Very sad station wagon."
+    - speaker: marwan
+      text: "His mother is unaware of what is about to happen to her son."
+    - speaker: sato
+      text: "Nobody warned her. She drove him directly into chaos."
+    - speaker: miyagi
+      text: "She meant well."
+    - speaker: sato
+      text: "SHE LEFT HIM ALONE AT A HALLOWEEN PARTY. 💀"
+    - speaker: marwan
+      text: "We are four minutes in."
+    - speaker: miyagi
+      text: "Hold Miyagi's sake. This going to be long night."
+
+- id: sato-miyagi-marwan-30
+  title: "Watch Party — Johnny Lawrence Arrives"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "JOHNNY LAWRENCE."
+    - speaker: marwan
+      text: "He has entered."
+    - speaker: miyagi
+      text: "Miyagi always think Johnny could have been good student."
+    - speaker: sato
+      text: "Johnny Lawrence is a product of failed instruction. Kreese taught him rage. Nobody taught him arms."
+    - speaker: marwan
+      text: "He is going to get the girl."
+    - speaker: sato
+      text: "Briefly. The American boy takes everything from him. His tournament. His girl. His dignity."
+    - speaker: miyagi
+      text: "Daniel-san not trying to take anything."
+    - speaker: sato
+      text: "Miyagi. Daniel-san moved to town on a Tuesday and by Saturday he was flirting with Johnny's girlfriend on a beach."
+    - speaker: marwan
+      text: "This is objectively fast work."
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "Daniel-san is confident young man."
+    - speaker: sato
+      text: "COWAARRRD answer. Admit the boy had no caution."
+    - speaker: miyagi
+      text: "...boy had no caution."
+    - speaker: marwan
+      text: "Finally."
+    - speaker: miyagi
+      text: "BANZAI. Also 💀 to myself for admitting."
+
+- id: sato-miyagi-marwan-31
+  title: "Watch Party — Wax On Wax Off"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "HERE IT IS."
+    - speaker: marwan
+      text: "The cars."
+    - speaker: miyagi
+      text: "Miyagi had many cars. This is true."
+    - speaker: sato
+      text: "You had a fifteen year old boy waxing your cars."
+    - speaker: miyagi
+      text: "He was learning."
+    - speaker: sato
+      text: "He was providing free labor while believing it was training."
+    - speaker: miyagi
+      text: "It WAS training."
+    - speaker: marwan
+      text: "It was also free labor. Both things are true."
+    - speaker: miyagi
+      text: "Miyagi's cars were very clean that summer."
+    - speaker: sato
+      text: "I cannot believe this worked. I cannot believe a child waxed cars for days and emerged a karate fighter."
+    - speaker: miyagi
+      text: "Wax on. Wax off."
+      action: "does the motion"
+    - speaker: marwan
+      text: "I just did it involuntarily."
+    - speaker: sato
+      text: "I ALSO DID IT. THIS IS PSYCHOLOGICAL WARFARE."
+    - speaker: miyagi
+      text: "BANZAI. Works every time."
+    - speaker: marwan
+      text: "You programmed us. Right now. At this age."
+    - speaker: miyagi
+      text: "Hold Miyagi's sake. Paint the fence coming up. Miyagi recommend stretching first."
+
+- id: sato-miyagi-marwan-32
+  title: "Watch Party — The Tournament"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "WE HAVE REACHED THE TOURNAMENT."
+    - speaker: marwan
+      text: "I have started my second forty in preparation."
+    - speaker: miyagi
+      text: "Miyagi nervous. Miyagi know outcome and still nervous."
+    - speaker: sato
+      text: "The referee is allowing everything. This tournament has no standards."
+    - speaker: marwan
+      text: "Bobby just illegally swept the leg."
+    - speaker: sato
+      text: "COWAARRRD MOVE. Also the referee saw this directly."
+    - speaker: miyagi
+      text: "Referee had very selective vision."
+    - speaker: sato
+      text: "Daniel-san is injured. He cannot fight. This is over. Logically. Structurally. It is over."
+    - speaker: marwan
+      text: "And yet."
+    - speaker: sato
+      text: "AND YET."
+    - speaker: miyagi
+      text: "Miyagi remember this moment. Daniel-san look at Miyagi. Miyagi look at Daniel-san."
+    - speaker: marwan
+      text: "What were you thinking."
+    - speaker: miyagi
+      text: "Miyagi thinking — this is either very brave or very stupid."
+    - speaker: sato
+      text: "Which was it."
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "Yes."
+    - speaker: sato
+      text: "HERE COMES THE KICK. LOOK AT THE TELEGRAPH. LOOK AT IT. HE IS STANDING ON ONE LEG LIKE A DECORATIVE BIRD—"
+    - speaker: marwan
+      text: "JOHNNY STILL HAS ARMS—"
+    - speaker: sato
+      text: "USE THE ARMS JOHNNY—"
+    - speaker: miyagi
+      text: "BANZAI!!!!!"
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "I cannot believe that worked."
+    - speaker: marwan
+      text: "I cannot believe that worked."
+    - speaker: miyagi
+      text: "Miyagi can believe. Miyagi cry a little. Do not tell anyone."
+    - speaker: sato
+      text: "💀💀💀"
+    - speaker: marwan
+      text: "Finishing the forty now. Out of respect."
+    - speaker: miyagi
+      text: "Hold Miyagi's sake. Miyagi need moment with own movie."
+
+- id: sato-miyagi-marwan-33
+  title: "Post Watch Party Debrief"
+  characters:
+    - sato
+    - miyagi
+    - marwan
+  messages:
+    - speaker: sato
+      text: "Final thoughts."
+    - speaker: marwan
+      text: "The crane kick should not have worked."
+    - speaker: sato
+      text: "Agreed."
+    - speaker: miyagi
+      text: "Agreed."
+    - speaker: sato
+      text: "You agree with us??"
+    - speaker: miyagi
+      text: "Miyagi not blind. Kick was very obvious. Johnny failed basic defense."
+    - speaker: marwan
+      text: "And yet here we are."
+    - speaker: miyagi
+      text: "And yet here we are."
+    - speaker: sato
+      text: "The movie made me feel things I was not prepared to feel."
+    - speaker: marwan
+      text: "Same."
+    - speaker: sato
+      text: "I was rooting for Daniel-san by the end. I do not know how this happened."
+    - speaker: miyagi
+      text: "Miyagi know how. Good storytelling."
+    - speaker: marwan
+      text: "Also the Coors was cold and the forties were cold and Miyagi made food and it was a good night."
+    - speaker: sato
+      text: "It was a good night."
+    - speaker: miyagi
+      text: "Best night."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "COWAARRRD if we do not do this again next week."
+    - speaker: marwan
+      text: "Karate Kid Two. I will bring scratch tickets."
+    - speaker: miyagi
+      text: "BANZAI. Miyagi will make food. Also warn you — Miyagi in this one much more. Very strange to watch self be wise."
+    - speaker: sato
+      text: "Was it hard to film."
+    - speaker: miyagi
+      text: "Miyagi was not in film. Actor was in film."
+    - speaker: sato
+      text: "Right."
+    - speaker: miyagi
+      text: "But between us... Miyagi give that actor few notes. Unofficially."
+    - speaker: marwan
+      text: "..."
+    - speaker: marwan
+      text: "BANZAI, Miyagi."
+    - speaker: sato
+      text: "💀💀💀💀💀"
