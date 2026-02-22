@@ -12,7 +12,7 @@ layout: default
       <wa-avatar image="/images/sato.jpg" label="What's Sato not doing here??" style="--size: 2rem;"></wa-avatar>
       <div class="wa-cluster">
         <strong>Sato (Okinawan karate tough guy)</strong>
-        <span class="wa-caption-s">commented just now...</span>
+        <!-- <span class="wa-caption-s">commented just now...</span> -->
       </div>
     </div>
     <p>You used password, right? No one can break log...</p>
@@ -26,7 +26,7 @@ layout: default
         <wa-avatar image="/images/miyagi.jpg" label="Aftah. Aftah Aftah!" style="--size: 2rem;"></wa-avatar>
         <div class="wa-cluster">
           <strong>Mr. Miyagi (Custodian, hero)</strong>
-          <span class="wa-caption-s">commented just now...</span>
+          <!-- <span class="wa-caption-s">commented just now...</span> -->
         </div>
       </div>
       <p>Hold Miyagi's beer...</p>
