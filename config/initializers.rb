@@ -110,6 +110,8 @@ Bridgetown.configure do |_config|
     family_shares do
       output true
       name "Family Shares"
+      sort_by "date"
+      sort_direction "ascending"
     end
   end
 end

@@ -149,3 +149,226 @@
       text: "Why do you keep saying that."
     - speaker: miyagi
       text: "Miyagi go back to sleep now."
+
+- id: sato-miyagi-6
+  title: "Saturday Morning"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: miyagi
+      text: "Miyagi cannot talk now. Saved by Bell starting."
+    - speaker: sato
+      text: "It is nine in the morning."
+    - speaker: miyagi
+      text: "Exactly. Zack Morris about to do something very stupid. Miyagi must witness."
+    - speaker: sato
+      text: "You are a sensei. A master of karate. And you are watching children's television."
+    - speaker: miyagi
+      text: "Screech is not children. Screech is philosopher."
+    - speaker: sato
+      text: "COWARRRD. Come train with me."
+    - speaker: miyagi
+      text: "After. Kelly Kapowski in this episode."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "...how long is episode."
+
+- id: sato-miyagi-7
+  title: "The Proposition"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "Miyagi. My name is Sato, and I looovvveee to get blottto. Want to smoke a spliff?"
+    - speaker: miyagi
+      text: "...Miyagi was not expecting that."
+    - speaker: sato
+      text: "I have been training for forty years. I am tense."
+    - speaker: miyagi
+      text: "Miyagi understand tense. Miyagi have thoughts on this."
+    - speaker: sato
+      text: "Yes?"
+    - speaker: miyagi
+      text: "Log still not broken. Perhaps... different approach."
+    - speaker: sato
+      text: "You think the spliff will help me break the log."
+    - speaker: miyagi
+      text: "Miyagi think spliff will help Sato stop caring about log. Is better outcome."
+    - speaker: sato
+      text: "COWARRRD."
+    - speaker: miyagi
+      text: "BANZAI. Also yes."
+
+- id: sato-miyagi-8
+  title: "Bayside High"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: miyagi
+      text: "Sato. If you could go to Bayside High, who would you be."
+    - speaker: sato
+      text: "What is Bayside High."
+    - speaker: miyagi
+      text: "Saved by Bell. The school."
+    - speaker: sato
+      text: "I don't— why are you asking me this."
+    - speaker: miyagi
+      text: "Miyagi is A.C. Slater. Athletic. Confident. Good hair."
+    - speaker: sato
+      text: "You are a sixty year old Japanese man."
+    - speaker: miyagi
+      text: "In spirit, Miyagi is Slater."
+    - speaker: sato
+      text: "Then I am... I suppose I am Zack Morris. Cunning. Handsome. Gets what he wants."
+    - speaker: miyagi
+      text: "Miyagi was going to say Screech."
+    - speaker: sato
+      text: "COWARRRD. Take that back immediately."
+    - speaker: miyagi
+      text: "Both have obsessive love that goes unrequited. Miyagi just saying."
+    - speaker: sato
+      text: "The log. I need to go hit the log."
+
+- id: sato-miyagi-9
+  title: "Tuesday Night"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "My name is Sato, and I looovvveee to get blottto. Want to smoke a spliff?"
+    - speaker: miyagi
+      text: "Sato. This is third time this week."
+    - speaker: sato
+      text: "It is Tuesday."
+    - speaker: miyagi
+      text: "Miyagi know."
+    - speaker: sato
+      text: "I broke the log."
+    - speaker: miyagi
+      text: "..."
+    - speaker: miyagi
+      text: "BANZAI."
+    - speaker: sato
+      text: "Do not make this weird."
+    - speaker: miyagi
+      text: "Miyagi so proud. Hold Miyagi's sake. Miyagi need moment."
+    - speaker: sato
+      text: "It felt... empty."
+    - speaker: miyagi
+      text: "Miyagi know that too."
+    - speaker: sato
+      text: "There is another log."
+    - speaker: miyagi
+      text: "Of course there is."
+    - speaker: sato
+      text: "Now. Spliff?"
+    - speaker: miyagi
+      text: "...Miyagi get lighter."
+
+- id: sato-miyagi-10
+  title: "The Crossover"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: miyagi
+      text: "Miyagi have important question."
+    - speaker: sato
+      text: "What."
+    - speaker: miyagi
+      text: "If Zack Morris challenge you to karate — do you fight him."
+    - speaker: sato
+      text: "Zack Morris is a television child."
+    - speaker: miyagi
+      text: "He is very sneaky. Always with plan. Time out power very dangerous."
+    - speaker: sato
+      text: "He has a TIME OUT POWER?"
+    - speaker: miyagi
+      text: "He stop time. Talk to camera. Very advanced technique."
+    - speaker: sato
+      text: "That is CHEATING. COWARRRD. I would destroy him."
+    - speaker: miyagi
+      text: "Miyagi not so sure. Zack once talked his way out of Mr. Belding expulsion. In real time. Very smooth."
+    - speaker: sato
+      text: "Who is Mr. Belding."
+    - speaker: miyagi
+      text: "Principal. Also underrated. Miyagi have complicated feelings about Belding."
+    - speaker: sato
+      text: "My name is Sato and I looovvveee to get blottto. This conversation requires it."
+    - speaker: miyagi
+      text: "Miyagi agree. Also new episode on after."
+
+- id: sato-miyagi-11
+  title: "Yelp Review"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "I left your dojo a review."
+    - speaker: miyagi
+      text: "Miyagi see. One star."
+    - speaker: sato
+      text: "I wrote: 'Sensei smells like bonsai fertilizer and has only one student. Coward operation. Log on premises not even broken. Zero stars but app would not allow.'"
+    - speaker: miyagi
+      text: "Miyagi respond."
+    - speaker: sato
+      text: "You responded in three minutes."
+    - speaker: miyagi
+      text: "Miyagi write: 'Thank you for visit, Sato-san. Miyagi note reviewer has visited dojo seventeen times this year. Student win All Valley. Bonsai healthy. Please come again.'"
+    - speaker: sato
+      text: "That is a COWARRRD response. Very passive."
+    - speaker: miyagi
+      text: "Miyagi also flag review as from known associate. Google remove in morning."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "You are more dangerous than you appear."
+    - speaker: miyagi
+      text: "Hold Miyagi's sake. Miyagi leave Sato dojo two stars."
+    - speaker: sato
+      text: "TWO? What is the second star for."
+    - speaker: miyagi
+      text: "Commitment to log. Miyagi respect the process."
+
+- id: sato-miyagi-12
+  title: "Intervention"
+  characters:
+    - sato
+    - miyagi
+  messages:
+    - speaker: sato
+      text: "Miyagi. I am worried about you."
+    - speaker: miyagi
+      text: "Miyagi fine."
+    - speaker: sato
+      text: "You have watched Saved by the Bell every day for four months."
+    - speaker: miyagi
+      text: "Miyagi catching up. There are gaps."
+    - speaker: sato
+      text: "It is a show about teenagers."
+    - speaker: miyagi
+      text: "It is show about honor. Friendship. Zack always come through in end even though method questionable."
+    - speaker: sato
+      text: "This is not healthy."
+    - speaker: miyagi
+      text: "Sato. You hit log every morning for forty seven years."
+    - speaker: sato
+      text: "..."
+    - speaker: miyagi
+      text: "We all have our log."
+    - speaker: sato
+      text: "..."
+    - speaker: sato
+      text: "My name is Sato and I looovvveee to get blottto."
+    - speaker: miyagi
+      text: "BANZAI. Miyagi get snacks. College Years starting."
+    - speaker: sato
+      text: "There is a College Years?!"
+    - speaker: miyagi
+      text: "Do not get attached. Is very painful."
