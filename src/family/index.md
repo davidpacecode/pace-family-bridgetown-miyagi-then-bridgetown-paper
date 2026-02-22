@@ -36,11 +36,18 @@ layout: default
 
 ### Some family updates
 
-<ul>
+<table>
   <% collections.family_shares.sort_by(&:date).reverse.each do |family_share| %>
-    <li><span class="wa-body-l"><a href="<%= family_share.relative_url %>">
-      <%= "#{family_share.data.title} - #{family_share.data.date}" %></a></span></li>
+    <tr>
+      <td>
+        <span class="wa-body-l"><a href="<%= family_share.relative_url %>">
+          <%= family_share.data.title %></a></span>
+      </td>
+      <td>
+      <span class="wa-body-l"><a href="<%= family_share.relative_url %>">
+        <%= family_share.data.date.strftime("%B %d, %Y") %></a></span>
+      </td>
+    </tr>
   <% end %>
-</ul>
-
+</table>
 
