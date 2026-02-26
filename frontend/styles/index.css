@@ -2,3 +2,9 @@
   text-decoration: none;
   color: inherit;
 }
+
+.calendar-day {
+  border-width: 1px;
+  border-style: solid;
+}
+
