@@ -3,6 +3,21 @@ layout: page
 title: Calendar
 ---
 
+
+
+<div class="wa-grid wa-flex-nowrap" style="--min-column-size: 6rem; border: solid 1px;">
+    <div class="wa-span-grid wa-font-weight-bold wa-grid wa-justify-content-center">March 2026</div>
+    <div>Sunday</div>
+    <div>Monday</div>
+    <div>Tuesday</div>
+    <div>Wednesday</div>
+    <div>Thursday</div>
+    <div>Friday</div>
+    <div>Saturday</div>
+</div>
+
+---
+
 <div class="wa-justify-content-center wa-font-weight-bold" style="border: solid 1px;">
     March 2026
 </div>
