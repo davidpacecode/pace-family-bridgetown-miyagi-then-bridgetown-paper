@@ -31,9 +31,9 @@ Bridgetown.configure do |config|
   # Add collection pagination features to your site. Documentation here:
   # https://www.bridgetownrb.com/docs/content/pagination
   #
-  # pagination do
-  #   enabled true
-  # end
+  pagination do
+    enabled true
+  end
 
   # Configure the permalink style for pages and posts. Custom collections can be
   # configured separately under the `collections` key. Documentation here:
@@ -61,7 +61,7 @@ Bridgetown.configure do |config|
   # For example, you can use the Dotenv gem to load environment variables from
   # `.env`. Just `bundle add dotenv` and then uncomment this:
   #
-  # init :dotenv
+  init :dotenv
   #
 
   # Uncomment to use Bridgetown SSR (aka dynamic rendering of content via Roda):
@@ -84,9 +84,9 @@ Bridgetown.configure do |config|
   # `bin/bridgetown roda:routes` to print the routes. (This will require you to
   # comment your route blocks. See example in `server/routes/hello.rb.sample`.)
   #
-  # only :server do
-  #   init :parse_routes
-  # end
+  only :server do
+    init :parse_routes
+  end
   #
 
   # You can configure the inflector used by Zeitwerk and models. A few acronyms are provided
@@ -102,4 +102,17 @@ Bridgetown.configure do |config|
 
   # For more documentation on how to configure your site using this initializers file,
   # visit: https://edge.bridgetownrb.com/docs/configuration/initializers/
+
+  # make a directory for my collections
+  collections_dir "my_collections"
+
+  collections do
+    family_shares do
+      output true
+      permalink "pretty"
+      future true
+    end
+  end
+
+
 end
