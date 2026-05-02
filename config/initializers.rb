@@ -74,7 +74,7 @@ Bridgetown.configure do |config|
   # Uncomment to use file-based dynamic template routing via Roda (make sure you
   # uncomment the gem dependency in your `Gemfile` as well):
   #
-  # init :"bridgetown-routes"
+  init :"bridgetown-routes"
   #
   # NOTE: you can remove `init :ssr` if you load this initializer
   #
