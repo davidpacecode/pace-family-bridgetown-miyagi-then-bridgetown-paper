@@ -28,7 +28,7 @@ git_source(:codeberg) { "https://codeberg.org/#{_1}.git" }
 gem "bridgetown", "~> 2.1.2"
 
 # Uncomment to add file-based dynamic routing to your project:
-# gem "bridgetown-routes", "~> 2.1.2"
+gem "bridgetown-routes", "~> 2.1.2"
 
 # Puma is the Rack-compatible web server used by Bridgetown
 # (you can optionally limit this to the "development" group)
