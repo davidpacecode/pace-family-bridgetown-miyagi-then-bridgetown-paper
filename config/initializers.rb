@@ -114,5 +114,10 @@ Bridgetown.configure do |config|
     end
   end
 
+  # add bridgetown_sequel stuff
+  database_uri ENV.fetch("DATABASE_URL", "sqlite://#{root_dir}/data/authtown_#{Bridgetown.env}.db")
 
+  except :sequel_tasks do
+    init :bridgetown_sequel
+  end
 end

@@ -42,3 +42,7 @@ gem "puma", "< 8"
 # gem "nokolexbor", "~> 0.6"
 
 gem "dotenv", "~> 3.2"
+
+gem "sqlite3", "~> 2.9"
+
+gem "bridgetown_sequel", "~> 1.1"
